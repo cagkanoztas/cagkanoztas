@@ -53,5 +53,5 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmoztas&show_icons=true&locale=en&layout=compact" alt="cmoztas" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cmoztas&show_icons=true&locale=en" alt="cmoztas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagkanoztas&show_icons=true&locale=en&layout=compact" alt="cagkanoztas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cagkanoztas&show_icons=true&locale=en" alt="cagkanoztas" /></p>
