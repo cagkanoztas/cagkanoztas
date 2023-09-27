@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cagkanoztas&label=Profile%20views&color=0e75b6&style=flat" alt="cagkanoztas" /> </p>
 
-- 🔭 I’m currently working on **my own social media analysis project**
-
 - 🌱 I’m currently learning **API Security Challenges**
 
 - 💬 Ask me about **Monolith Architecture, Microservice Architecture, AOP (Aspect Oriented Programming), OOP (Object Oriented Programming), SOLID**
@@ -15,7 +13,6 @@
   <a href="https://codepen.io/cmoztas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cmoztas" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/cagkanmert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cagkanmert" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/11577967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11577967" height="30" width="40" /></a>
-  <a href="https://instagram.com/thekizbabasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thekizbabasi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
